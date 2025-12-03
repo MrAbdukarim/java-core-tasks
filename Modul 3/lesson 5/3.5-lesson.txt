@@ -1,0 +1,33 @@
+5.1 Set & HashSet
+Set nima ?
+Set ni asosiy xususiyatlari ?
+Set interfaceni subclassni aytib bering.
+HashSet nima ?
+HashSet elementlarni saqlash uchun internal nimadan foydalanadi ?
+HashSet thread-safemi ?
+HashSet elementlarni kirish tartibda saqlaydimi ?
+HashSet add() method qanday ishlashni tushintirib bering ?
+HashSet nima uchun duplicate elementlarni saqlab bo'lmaydi ?
+
+5.3 LinkedHashSet
+LinkedHashSet nima ?
+LinkedHashSet va HashSet o'rtasidagi farq nima ?
+LinkedHashSet java nechinchi versiyasida qo'shiilgan ?
+LinkedHashSet thread-safemi ?
+LinkedHashSet qaysi operatsiyalar uchun samarli ?
+
+5.4 Comparator and Comparable
+Comparator nima ?
+Comparable nima ?
+Comparator va Comparable interfacelari o'rtasidagi farq ?
+Java-ni nechinchi versiyasida qo'shilgan ?
+Qachon biz ushbu 2la interfacelardan foydalanishimiz kerak ?
+
+5.5 TreeSet
+TreeSet nima ?
+TreeSet duplicate elementlarga ruhsat bormi ?
+TreeSet thread-safemi ?
+TreeSet va HashSet o'rtasidagi farq ?
+TreeSet hierarchysini aytib bering ?
+TreeSet elementlarni saqlash uchun internal nimadan foydalanadi ?
+TreeSet ga iteratsiya paytida o'zgartirish kiritsak nima bo'ladi ?
