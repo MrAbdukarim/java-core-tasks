@@ -1,0 +1,19 @@
+6.1 Queue Data Structure
+Queue nima ?
+FIFO nima ?
+Queue Interface methodlarni aytib bering ?
+Queue nechi xil turi bor ?
+Queue asosiy xususiyarlarni aytib bering ?
+Queue ga null element qo'shimiz mumkinmi ?
+Queue ga duplicate elementlarni qo'shimiz mumkinmi ?
+Queue interface sub-interfacelarni aytib bering ?
+
+6.2 Queue Interface
+PriorityQueue nima ?
+PriorityQueue ga null element qo'shimiz mumkinmi ?
+PriorityQueue asosiy xususiyatlarni aytib bering ?
+PriorityQueue thread-safemi ?
+Deque nima ?
+Deque ni hierarchysini aytib bering ?
+Deque ni asosiy xususiyatlarni ayting ?
+LIFO nima ?

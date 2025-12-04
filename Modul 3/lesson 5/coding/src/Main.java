@@ -14,8 +14,8 @@ public class Main {
             alphabet.add(String.valueOf(c));
         }
 
-        alphabet.forEach(System.out::println);
-
+        // alphabet.forEach(System.out::println);
+        System.out.println("alphabet = " + alphabet);
         // 1 dan 10 gacha sonlarni TreeSetga saqlang va ekranga chiqaring
         Set<Integer> nums = new TreeSet<>();
         for (int i = 1; i <= 10; i++) nums.add(i);
